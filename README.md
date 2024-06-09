@@ -26,6 +26,10 @@ However, our work would not be possible without the generous support of donors l
 - [Facebook page (Donate button)](https://www.facebook.com/VietnamTechSociety/)
 - [Company donation matching program](https://causes.benevity.org/content/vietnam-tech-society)
 
+## Report Issues or Suggest Features
+
+If you encounter a bug or have an idea for a new feature, please create an issue [here](https://github.com/Vietnam-Tech-Society/techsphere/issues).
+
 ## Thank You
 
 We are profoundly grateful for your support and belief in our mission. Together, we can continue to provide valuable mentorship opportunities and help individuals achieve their full potential in the tech industry. Thank you for being a part of our journey and for your commitment to making a positive impact.
