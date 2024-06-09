@@ -4,7 +4,7 @@ Vietnam Tech Society (VTS) is a 501(c)(3) nonprofit organization founded in 2020
 
 ## Our Platform
 
-At the heart of our efforts is [techsphere.app](https://techsphere.app), an innovative online platform specifically designed for the Vietnamese community. This platform allows individuals to find, book, and meet professional mentors in the tech industry for free. Whether you are a student aspiring to enter the tech world, a professional looking to advance your career, or someone considering a career change into tech, techsphere.app provides the resources and connections you need to succeed.
+At the heart of our efforts is <a href="https://techsphere.app" target="_blank">techsphere.app</a>, an innovative online platform specifically designed for the Vietnamese community. This platform allows individuals to find, book, and meet professional mentors in the tech industry for free. Whether you are a student aspiring to enter the tech world, a professional looking to advance your career, or someone considering a career change into tech, techsphere.app provides the resources and connections you need to succeed.
 
 ## Our Impact
 
@@ -22,13 +22,13 @@ We are deeply committed to our cause and continuously strive to improve and expa
 
 However, our work would not be possible without the generous support of donors like you. Your donation helps us maintain and improve our platform, recruit and support mentors, and provide resources for our mentees. Every contribution, no matter the size, makes a significant difference in the lives of those we serve.
 
-- [Paypal](https://www.paypal.com/US/fundraiser/charity/4485204)
-- [Facebook page (Donate button)](https://www.facebook.com/VietnamTechSociety/)
-- [Company donation matching program](https://causes.benevity.org/content/vietnam-tech-society)
+- <a href="https://www.paypal.com/US/fundraiser/charity/4485204" target="_blank">Paypal</a>
+- <a href="https://www.facebook.com/VietnamTechSociety/" target="_blank">Facebook page (Donate button)</a>
+- <a href="https://causes.benevity.org/content/vietnam-tech-society" target="_blank">Company donation matching program</a>
 
 ## Report Issues or Suggest Features
 
-If you encounter a bug or have an idea for a new feature, please create an issue [here](https://github.com/Vietnam-Tech-Society/techsphere/issues).
+If you encounter a bug or have an idea for a new feature, please create an issue <a href="https://github.com/Vietnam-Tech-Society/techsphere/issues" target="_blank">here</a>.
 
 ## Thank You
 
