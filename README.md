@@ -23,6 +23,7 @@ We are deeply committed to our cause and continuously strive to improve and expa
 However, our work would not be possible without the generous support of donors like you. Your donation helps us maintain and improve our platform, recruit and support mentors, and provide resources for our mentees. Every contribution, no matter the size, makes a significant difference in the lives of those we serve.
 
 - <a href="https://www.paypal.com/US/fundraiser/charity/4485204" target="_blank">Paypal</a>
+- <a href="https://gofund.me/507e0492" target="_blank">Go Fund Me</a>
 - <a href="https://www.facebook.com/VietnamTechSociety/" target="_blank">Facebook page (Donate button)</a>
 - <a href="https://causes.benevity.org/content/vietnam-tech-society" target="_blank">Company donation matching program</a>
 
