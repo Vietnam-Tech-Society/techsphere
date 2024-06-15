@@ -10,14 +10,6 @@ At the heart of our efforts is <a href="https://techsphere.app" target="_blank">
 
 Since our inception, we have made significant strides in fulfilling our mission. Over the past three years, our platform has successfully connected 85 dedicated mentors with 650 eager mentees. This has resulted in over 2,050 mentorship calls, each one representing an opportunity for growth, learning, and professional development. Our mentors, who are experienced professionals from various tech fields, volunteer their time and expertise to help mentees navigate their career paths, develop new skills, and overcome challenges.
 
-## Success Stories
-
-The impact of our work is reflected in the success stories of our mentees. Many have secured jobs, achieved promotions, and gained the confidence to pursue their dreams in the tech industry. Our mentors also benefit from this experience, finding fulfillment in giving back to the community and helping shape the future of tech talent.
-
-## Our Commitment
-
-We are deeply committed to our cause and continuously strive to improve and expand our services. Our team works tirelessly to recruit more mentors, enhance our platform's features, and reach a broader audience. We believe that by investing in mentorship, we are investing in the future of the tech industry and contributing to a more inclusive and diverse tech community.
-
 ## Support Us
 
 However, our work would not be possible without the generous support of donors like you. Your donation helps us maintain and improve our platform, recruit and support mentors, and provide resources for our mentees. Every contribution, no matter the size, makes a significant difference in the lives of those we serve.
@@ -34,3 +26,10 @@ If you encounter a bug or have an idea for a new feature, please create an issue
 ## Thank You
 
 We are profoundly grateful for your support and belief in our mission. Together, we can continue to provide valuable mentorship opportunities and help individuals achieve their full potential in the tech industry. Thank you for being a part of our journey and for your commitment to making a positive impact.
+
+## Success Stories
+
+The impact of our work is reflected in the success stories of our mentees. Many have secured jobs, achieved promotions, and gained the confidence to pursue their dreams in the tech industry. Our mentors also benefit from this experience, finding fulfillment in giving back to the community and helping shape the future of tech talent.
+
+![image](https://github.com/Vietnam-Tech-Society/techsphere/assets/10910705/b13fbbe3-9102-4f47-a0ea-af968d3cf88d)
+
