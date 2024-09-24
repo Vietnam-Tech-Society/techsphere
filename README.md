@@ -4,7 +4,7 @@ Vietnam Tech Society (VTS) is a 501(c)(3) nonprofit organization founded in 2020
 
 ## Our Platform
 
-At the heart of our efforts is <a href="https://techsphere.app" target="_blank">techsphere.app</a>, an innovative online platform specifically designed for the Vietnamese community. This platform allows individuals to find, book, and meet professional mentors in the tech industry for free. Whether you are a student aspiring to enter the tech world, a professional looking to advance your career, or someone considering a career change into tech, techsphere.app provides the resources and connections you need to succeed.
+At the heart of our efforts is <a href="https://docs.google.com/spreadsheets/d/1kjigetJZ3fIRXN8hBP3QXd0f6Gi4UFhm_-vW0YgzYVo/edit?usp=sharing" target="_blank">techsphere.app</a>, an innovative online platform specifically designed for the Vietnamese community. This platform allows individuals to find, book, and meet professional mentors in the tech industry for free. Whether you are a student aspiring to enter the tech world, a professional looking to advance your career, or someone considering a career change into tech, techsphere.app provides the resources and connections you need to succeed.
 
 ## Our Impact
 
