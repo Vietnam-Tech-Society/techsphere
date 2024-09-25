@@ -6,11 +6,12 @@ Vietnam Tech Society (VTS) is a 501(c)(3) nonprofit organization founded in 2020
 
 At the heart of our efforts is <a href="https://docs.google.com/spreadsheets/d/1kjigetJZ3fIRXN8hBP3QXd0f6Gi4UFhm_-vW0YgzYVo/edit?usp=sharing" target="_blank">techsphere.app</a>, an innovative online platform specifically designed for the Vietnamese community. This platform allows individuals to find, book, and meet professional mentors in the tech industry for free. Whether you are a student aspiring to enter the tech world, a professional looking to advance your career, or someone considering a career change into tech, techsphere.app provides the resources and connections you need to succeed.
 
-Book a mentorship call [HERE](https://docs.google.com/spreadsheets/d/1kjigetJZ3fIRXN8hBP3QXd0f6Gi4UFhm_-vW0YgzYVo/edit?usp=sharing)
-
-Submit this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSd5JZafhGv-eJTIwxOW9IaGF6f8zYbxm23Sn4HC_HIlkB7LEQ/viewform) to become a mentor  
-
+Book a 1:1 mentorship call [HERE](https://docs.google.com/spreadsheets/d/1kjigetJZ3fIRXN8hBP3QXd0f6Gi4UFhm_-vW0YgzYVo/edit?usp=sharing)
 ![image](https://github.com/user-attachments/assets/110be828-b89f-4b21-a7d8-b172437c35d0)
+
+
+Become a Mentor [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd5JZafhGv-eJTIwxOW9IaGF6f8zYbxm23Sn4HC_HIlkB7LEQ/viewform) 
+![image](https://github.com/user-attachments/assets/6297f6cd-2134-4d1f-a09e-e2eb07e7b4d0)
 
 
 ## Our Impact
