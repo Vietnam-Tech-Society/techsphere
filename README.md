@@ -10,10 +10,6 @@ Book a 1:1 mentorship call [HERE](https://docs.google.com/spreadsheets/d/1kjiget
 ![image](https://github.com/user-attachments/assets/110be828-b89f-4b21-a7d8-b172437c35d0)
 
 
-Become a Mentor [HERE](https://docs.google.com/spreadsheets/d/1kjigetJZ3fIRXN8hBP3QXd0f6Gi4UFhm_-vW0YgzYVo/edit?usp=sharing)
-![image](https://github.com/user-attachments/assets/110be828-b89f-4b21-a7d8-b172437c35d0)
-
-
 ## Our Impact
 
 Since our inception, we have made significant strides in fulfilling our mission. Over the past three years, our platform has successfully connected 85 dedicated mentors with 650 eager mentees. This has resulted in over 2,050 mentorship calls, each one representing an opportunity for growth, learning, and professional development. Our mentors, who are experienced professionals from various tech fields, volunteer their time and expertise to help mentees navigate their career paths, develop new skills, and overcome challenges.
