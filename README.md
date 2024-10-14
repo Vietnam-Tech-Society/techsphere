@@ -10,8 +10,8 @@ Book a 1:1 mentorship call [HERE](https://docs.google.com/spreadsheets/d/1kjiget
 ![image](https://github.com/user-attachments/assets/110be828-b89f-4b21-a7d8-b172437c35d0)
 
 
-Become a Mentor [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd5JZafhGv-eJTIwxOW9IaGF6f8zYbxm23Sn4HC_HIlkB7LEQ/viewform) 
-![image](https://github.com/user-attachments/assets/6297f6cd-2134-4d1f-a09e-e2eb07e7b4d0)
+Become a Mentor [HERE](https://docs.google.com/spreadsheets/d/1kjigetJZ3fIRXN8hBP3QXd0f6Gi4UFhm_-vW0YgzYVo/edit?usp=sharing)
+![image](https://github.com/user-attachments/assets/110be828-b89f-4b21-a7d8-b172437c35d0)
 
 
 ## Our Impact
